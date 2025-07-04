@@ -29,8 +29,8 @@ isThisInHere/
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-friend/uxrAgent.git
-   cd uxrAgent
+   git clone https://github.com/your-friend/UXRAgent.git
+   cd UXRAgent
    ```
 
 2. **Set your Azure OpenAI API key as an environment variable:**
