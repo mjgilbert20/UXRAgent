@@ -1,4 +1,4 @@
-# uxrAgent
+# UXR Agent
 
 A Java-based agent framework for supporting UX Research insight validation through traceable attribution.
 
