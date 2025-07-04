@@ -1,0 +1,55 @@
+I: Thanks for talking with me today. We’re just having a conversation about how you think about and protect your digital identity. There are no right or wrong answers — just your experience. Sound good?
+
+R: Yeah, that’s fine.
+
+I: First, can you tell me what types of digital accounts you currently have? Like email, social media, maybe banking or gaming?
+
+R: Um, okay. I have Gmail, Snapchat, Instagram, TikTok. I use Discord a lot for gaming and chatting with friends. I have a school account for Google Classroom. Oh, and Spotify and Netflix too. No banking yet — my parents still handle that.
+
+I: Thanks. Do you use different passwords for those accounts?
+
+R: Uh… not really. I use the same one or maybe like two different ones. I know I should probably change that. I just don’t wanna forget them.
+
+I: Got it. How often do you update your passwords or use two-factor authentication?
+
+R: I don’t really update my passwords unless I get locked out or something. I think Snapchat made me do a verification thing once — like sending a code to my phone. I have 2FA on for Discord, I think. It’s kind of annoying though.
+
+I: Have you ever been notified that one of your accounts was in a data breach?
+
+R: Not that I know of. I mean, I’ve seen stuff on the news, but I don’t think it’s happened to me. Or maybe it has and I just didn’t see the email.
+
+I: Do you use a password manager?
+
+R: No… I just remember my passwords. Or I save them in my browser, I think. My phone auto-fills a lot of them.
+
+I: Can you remember the last time you changed any privacy settings on your apps or devices?
+
+R: Hmm. I think I turned off location stuff for TikTok a while ago. And I made my Instagram private. My friends said that was smarter. I don’t really go into settings unless someone tells me to.
+
+I: Let’s shift a little. What does “protecting your digital identity” mean to you?
+
+R: Uh… not letting people steal your stuff? Like, your passwords or pretending to be you. I guess also not posting things you’ll regret? I don’t think about it that much honestly.
+
+I: How confident do you feel that your personal info is safe online?
+
+R: I don’t know. Kind of safe, but also not really? Like, I try not to click on weird links and I don’t post personal info, but it’s hard to know what apps are doing with your data. So… I guess I just hope it’s okay.
+
+I: Do you think most people your age understand the risks of sharing personal info online?
+
+R: Some do, some don’t. My close friends are more careful — like they use fake names or private accounts. But I see people posting their whole lives on TikTok or whatever. I don’t think everyone realizes how fast stuff spreads.
+
+I: In your opinion, what’s more important: convenience or privacy?
+
+R: Uhh… convenience, probably. I just wanna get into my apps fast. But like, I want privacy. I just don’t know how to do both.
+
+I: If you could change one thing about how digital identity is managed online, what would it be?
+
+R: Maybe make it easier to delete your stuff. Like when you quit an app, they should just wipe everything. And maybe make privacy settings easier to find. Sometimes they’re super hidden.
+
+I: Has this conversation brought up any other thoughts?
+
+R: I guess I should probably change my passwords or look at my settings more. [laughs] I kinda just hope my phone keeps me safe, you know? But now I’m thinking maybe I shouldn’t trust that so much.
+
+I: That’s a totally valid takeaway. Thanks again for talking with me — you’ve shared a lot of helpful insights.
+
+R: Yeah, no problem. Good luck with your project.

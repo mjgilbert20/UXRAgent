@@ -1,0 +1,17 @@
+Rephrased Insight: R: Yes, I have several accounts. There are two emails, one for work and one for personal use. I also have online banking, social media accounts on Instagram, Facebook, Twitter, and X, which used to be known by a different name. Additionally, I have accounts on Amazon and eBay for shopping, and I use MyChart for managing health-related information.
+====
+Source: interview3.txt
+Insight found (LLM): false
+---
+Source: interview2.txt
+Insight found (LLM): false
+---
+Source: interview5.txt
+Insight found (LLM): false
+---
+Source: interview4.txt
+Insight found (LLM): false
+---
+Source: interview1.txt
+Insight found (LLM): true
+---

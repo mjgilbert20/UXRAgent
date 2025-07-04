@@ -1,0 +1,55 @@
+I: Thanks for joining me today. We’re talking about how people think about and protect their digital identity — both in their personal lives and at work. There are no right or wrong answers. Sound okay?
+
+R: Absolutely. It’s an important topic — glad to be part of it.
+
+I: First, can you tell me what kinds of digital accounts you use regularly? Things like email, banking, social media, or anything else?
+
+R: Of course. Professionally, I use corporate email, Microsoft Teams, a number of collaboration tools like SharePoint and DocuSign, and several industry-specific platforms. Personally, I use Gmail, a couple of investment platforms, Amazon, a news subscription or two, and I keep a fairly minimal social media presence — mainly LinkedIn.
+
+I: Thanks. Do you use different passwords for those accounts?
+
+R: Without exception. It’s something we enforce at the organizational level, and I hold myself to the same standard. Every account gets a unique password. I’ve used a password manager for years to manage the complexity.
+
+I: How often do you update your passwords or use two-factor authentication?
+
+R: My company mandates password changes every 90 days, and we use app-based 2FA — Duo, in our case. I use similar protections personally, though I’ll admit I’m not always as rigorous at home as I am at work. But two-factor is standard for all my financial and cloud accounts.
+
+I: Have you ever been affected by a data breach?
+
+R: Yes — my Marriott account was compromised a few years ago. Also, I believe my information was part of the OPM breach back in 2015. That one was a wake-up call. At the time I thought, “If the federal government isn’t immune, no one is.”
+
+I: Do you use a password manager?
+
+R: Yes — both at work and at home. We use a managed enterprise solution at the office. Personally, I use 1Password. I’ve found it reliable and secure.
+
+I: Can you describe the last time you reviewed or changed privacy settings?
+
+R: Just last month, actually. I went through my mobile apps to audit which had access to location and microphone data. Some of those settings creep back on with app updates. I also recently reviewed sharing permissions in Google Docs, after realizing I’d been too liberal with link-based sharing.
+
+I: What does “protecting your digital identity” mean to you?
+
+R: It means controlling your digital footprint — understanding where your information lives and who has access to it. In the corporate context, it’s also about protecting the brand and our intellectual property. Personally, it’s about ensuring my digital presence can’t be misused — either through impersonation, credential theft, or unintentional oversharing.
+
+I: How confident do you feel in the security of your personal information online?
+
+R: I’d say moderately confident. I do what I can: strong passwords, encrypted backups, careful data hygiene. But I’m also realistic — once your data is out there, you’ve lost a degree of control. That’s the world we live in now.
+
+I: Do you think most people understand the risks of sharing personal information online?
+
+R: In my experience, not really. People understand it conceptually, but their behaviors don’t always reflect that awareness. We do annual security training at my company, but it’s still a struggle to get people to slow down and think before clicking or sharing.
+
+I: In your opinion, what’s more important: convenience or privacy?
+
+R: Privacy, without question. But that’s easy to say when you have resources to support it. For the average person, convenience often wins by necessity. Ideally, we shouldn’t have to choose — privacy should be the default, not the trade-off.
+
+I: If you could change one thing about how digital identity is managed online today, what would it be?
+
+R: I’d advocate for stronger, more standardized identity frameworks. Something akin to a digital passport — federated, encrypted, revocable, but user-controlled. Right now, the identity model is fractured across services, and it’s inefficient and insecure.
+
+I: Has this conversation brought up any additional thoughts?
+
+R: It reinforces something I’ve been thinking about a lot lately — the need for digital literacy at all levels of the organization. We’ve done a good job investing in technical controls, but the human layer remains the most vulnerable. And it’s not just about compliance — it’s about building a culture of digital responsibility.
+
+I: That’s incredibly insightful. Thank you again for your time.
+
+R: Glad to contribute. These are the kinds of conversations we need to be having more often.

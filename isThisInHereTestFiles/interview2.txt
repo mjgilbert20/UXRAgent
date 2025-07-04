@@ -1,0 +1,55 @@
+I: Thanks for joining me today. We're talking about protecting your digital identity — what that means to you, how you think about it, and what you do in practice. There are no right or wrong answers, just your experience. Sound good?
+
+R: Sounds great. Let’s do it.
+
+I: First, can you tell me what types of digital accounts you currently have? For example, things like email, banking, social media, and so on?
+
+R: Quite a few. On the work side, I have my corporate email, internal platforms like our HR portal, expense reporting, and project tools — things like Jira and Confluence. Then there’s Slack, Teams, Zoom. Personally, I have email, social media, some investment and banking apps, and probably too many subscriptions.
+
+I: Thanks. Do you tend to use different passwords for those accounts?
+
+R: At work, it’s required — every system has a unique password and two-factor authentication. For personal accounts, I used to recycle a few, but now I rely on a password manager. It’s a mix, but I’ve gotten better over the years.
+
+I: That leads well into the next question: how often do you update your passwords or use two-factor authentication?
+
+R: Our IT policy forces password resets every 90 days, and we use app-based 2FA — no SMS. For personal use, I try to follow similar patterns, but it’s definitely less consistent. I use Authy for 2FA where I can.
+
+I: Have you ever been notified of a data breach affecting one of your accounts?
+
+R: Yes, unfortunately. My LinkedIn and Marriott accounts were both affected. For work, we get automated alerts from our security team if something we use gets flagged. Personally, I use Have I Been Pwned and 1Password’s Watchtower feature.
+
+I: Do you use a password manager?
+
+R: Yes, at work we use an enterprise version of LastPass. For personal stuff, I switched from LastPass to 1Password after their breach. It's honestly made things so much easier.
+
+I: Can you describe the last time you reviewed or changed privacy settings on a device, app, or service?
+
+R: At work, we had a recent audit that required everyone to review access settings on shared drives. Personally, I did a cleanup of my Google account not long ago — deleted old devices, turned off ad personalization. I do a deeper review maybe once or twice a year.
+
+I: Let’s shift into a few broader questions. What does “protecting your digital identity” mean to you personally?
+
+R: It means being intentional about what I put out there, and making sure I’m the only one who can act as “me” online. In a corporate setting, it's also about not being the weak link that compromises others — phishing, credential stuffing, that kind of thing. I take it seriously both for myself and for my team.
+
+I: How confident do you feel about the security of your personal information online?
+
+R: Professionally, I feel confident — we have solid systems and active monitoring. Personally, I’d say moderately confident. I’ve taken the steps I know how to take, but there’s always that sense that your data is out there, and you can’t completely control where it ends up.
+
+I: Do you think most people understand the risks involved in sharing personal information online?
+
+R: Honestly? Not really. Even within a corporate environment, people click phishing links or reuse passwords. There's a general awareness, but not deep understanding. Security awareness training helps, but changing habits takes more than that.
+
+I: In your opinion, what’s more important: convenience or privacy?
+
+R: Professionally, privacy and security come first — that’s non-negotiable. Personally, it’s a balancing act. I want convenience, but not at the cost of control. If something gives me both — like biometric login with strong encryption — I’m all for it.
+
+I: If you could change one thing about how digital identity is managed online today, what would it be?
+
+R: I’d love to see more transparency from platforms. A simple, unified dashboard showing who has what data, what they’re doing with it, and the ability to wipe it clean. And maybe better federated identity options — like being able to verify once, then control how that identity is used elsewhere, without giving it to Google or Facebook.
+
+I: Not at all. Last question — has this conversation brought up any other thoughts for you?
+
+R: Yeah — it’s reminded me how reactive most of us are. Even in corporate environments, a lot of security measures are there to catch mistakes, not prevent them. I think we need to do more to design systems that support better habits by default. Also, education matters. I still get texts from relatives asking if emails are scams. There's a huge awareness gap out there.
+
+I: That’s really helpful. Thanks again for your time — you’ve given me a lot to think about.
+
+R: Glad to help. It’s a topic I care about more than I used to.
