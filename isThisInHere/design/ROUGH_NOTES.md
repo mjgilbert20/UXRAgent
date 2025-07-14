@@ -37,6 +37,7 @@
 
 # Resources
 
+-https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/evaluation-evaluators/textual-similarity-evaluators
 - https://www.anthropic.com/news/model-context-protocol
 - https://apidog.com/blog/mcp-vs-api/
 - https://smithery.ai
