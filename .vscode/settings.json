@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "isThisInHere\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "isThisInHere\\lib\\json-20240303.jar"
+    ]
+}
