@@ -19,7 +19,7 @@ public class VideoInterview extends InterviewSource {
 
     @Override
     public SourceType getType() {
-        return SourceType.VIDEO;
+        return SourceType.VIDEO_INTERVIEW;
     }
 
     public String getVideoPath() {

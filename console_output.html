@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UXR Agent Demo - Console Output</title>
+    <style>
+        body {
+            background-color: #0d1117;
+            color: #f0f6fc;
+            font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+            font-size: 14px;
+            line-height: 1.4;
+            margin: 20px;
+            padding: 20px;
+        }
+        
+        .console-output {
+            background-color: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 16px;
+            overflow-x: auto;
+            white-space: pre-wrap;
+            font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+        }
+        
+        .header-box {
+            color: #7c3aed;
+            border: 2px solid #7c3aed;
+            padding: 10px;
+            text-align: center;
+            margin: 10px 0;
+            background-color: rgba(124, 58, 237, 0.1);
+        }
+        
+        .phase-header {
+            color: #fbbf24;
+            font-weight: bold;
+            margin: 15px 0 5px 0;
+        }
+        
+        .phase-separator {
+            color: #6b7280;
+            margin: 5px 0;
+        }
+        
+        .emoji {
+            color: #fbbf24;
+        }
+        
+        .source-item {
+            color: #34d399;
+            margin-left: 20px;
+        }
+        
+        .overview-item {
+            color: #60a5fa;
+            margin-left: 20px;
+        }
+        
+        .question {
+            color: #f472b6;
+            font-style: italic;
+            margin: 10px 0;
+        }
+        
+        .match-found {
+            color: #34d399;
+            margin: 5px 0;
+        }
+        
+        .evidence-header {
+            color: #fbbf24;
+            font-weight: bold;
+            margin: 15px 0 5px 0;
+        }
+        
+        .evidence-details {
+            margin-left: 20px;
+        }
+        
+        .evidence-label {
+            color: #94a3b8;
+            display: inline-block;
+            width: 120px;
+        }
+        
+        .evidence-value {
+            color: #f0f6fc;
+        }
+        
+        .text-box {
+            border: 1px solid #6b7280;
+            padding: 10px;
+            margin: 10px 0;
+            background-color: rgba(107, 114, 128, 0.1);
+            border-radius: 4px;
+        }
+        
+        .summary {
+            color: #fbbf24;
+            font-weight: bold;
+            margin: 20px 0 10px 0;
+        }
+        
+        .validation-result {
+            color: #34d399;
+            font-weight: bold;
+        }
+        
+        .confidence {
+            color: #60a5fa;
+        }
+        
+        .traceability {
+            color: #f472b6;
+        }
+        
+        .report-section {
+            color: #94a3b8;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="console-output">
+<div class="header-box">
+╔══════════════════════════════════════════════════════════════════╗
+║                    UXR AGENT DEMO                                ║
+║           Cross-Source Insight Validation                       ║
+╚══════════════════════════════════════════════════════════════════╝
+</div>
+
+<div class="phase-header"><span class="emoji">🔍</span> PHASE 1: LOADING RESEARCH SOURCES</div>
+<div class="phase-separator">════════════════════════════════════</div>
+<div class="source-item">Loaded interview: interview_participant_001.txt</div>
+<div class="source-item">Loaded research report: UX Research Report: Digital Banking User Behavior Study</div>
+<div class="source-item">Loaded research report: Academic Paper: Digital Identity Management in Modern Applications</div>
+<div class="source-item">Loaded document: multi_account_dashboard_prd.txt</div>
+
+<div class="phase-header"><span class="emoji">📊</span> REPOSITORY OVERVIEW</div>
+<div class="phase-separator">─────────────────────</div>
+<div class="overview-item"><span class="emoji">🎤</span> TEXT_TRANSCRIPT: 1 sources</div>
+<div class="overview-item"><span class="emoji">📑</span> RESEARCH_REPORT: 2 sources</div>
+<div class="overview-item"><span class="emoji">📄</span> DOCUMENT: 1 sources</div>
+<div class="overview-item"><span class="emoji">📚</span> Total sources: 4</div>
+
+<div class="phase-header"><span class="emoji">🔬</span> PHASE 2: SEMANTIC SEARCH & VALIDATION</div>
+<div class="phase-separator">═══════════════════════════════════════</div>
+
+<div class="question"><span class="emoji">❓</span> Research Question:
+   "users maintain multiple email accounts for different purposes"</div>
+
+<div class="phase-header"><span class="emoji">🤖</span> Running AI-powered semantic analysis...</div>
+<div class="source-item">Running LLM-powered semantic matching across 4 sources.</div>
+<div class="source-item">...</div>
+
+<div class="match-found"><span class="emoji">✅</span> Match found in TEXT_TRANSCRIPT: interview_participant_001.txt</div>
+<div class="match-found"><span class="emoji">✅</span> Match found in RESEARCH_REPORT: ResearchReport</div>
+<div class="match-found"><span class="emoji">✅</span> Match found in RESEARCH_REPORT: ResearchReport</div>
+<div class="match-found"><span class="emoji">✅</span> Match found in DOCUMENT: GenericDocument</div>
+
+<div class="phase-header"><span class="emoji">📋</span> VALIDATION RESULTS</div>
+<div class="phase-separator">═══════════════════</div>
+
+<div class="evidence-header"><span class="emoji">🔍</span> EVIDENCE FOUND #1</div>
+<div class="evidence-details">
+   <span class="evidence-label">Source Type:</span> <span class="evidence-value">TEXT_TRANSCRIPT</span><br>
+   <span class="evidence-label">Source:</span> <span class="evidence-value">interview_participant_001.txt</span><br>
+   <span class="evidence-label">Confidence:</span> <span class="evidence-value confidence">90%</span><br>
+   <span class="evidence-label">Supporting Text:</span>
+   <div class="text-box">
+   I: First, can you tell me what types of digital accounts you currently have? For example, things like email, banking, social media, and so on?
+   
+   R: Uh, yeah, quite a few actually.
+   </div>
+</div>
+
+<div class="evidence-header"><span class="emoji">🔍</span> EVIDENCE FOUND #2</div>
+<div class="evidence-details">
+   <span class="evidence-label">Source Type:</span> <span class="evidence-value">RESEARCH_REPORT</span><br>
+   <span class="evidence-label">Source:</span> <span class="evidence-value">ResearchReport</span><br>
+   <span class="evidence-label">Confidence:</span> <span class="evidence-value confidence">90%</span><br>
+   <span class="evidence-label">Supporting Text:</span>
+   <div class="text-box">
+   **Methodology:** Mixed-methods study with 150 participants
+   
+   ## Executive Summary
+   
+   This study examined user behavior patterns in digital banking applications, focusing on account management preferences and security concerns.
+   
+   ## Key Findings
+   
+   ### Account Preferences
+   Our research revealed that 78% of users maintain multiple email accounts for different purposes.
+   </div>
+</div>
+
+<div class="evidence-header"><span class="emoji">🔍</span> EVIDENCE FOUND #3</div>
+<div class="evidence-details">
+   <span class="evidence-label">Source Type:</span> <span class="evidence-value">RESEARCH_REPORT</span><br>
+   <span class="evidence-label">Source:</span> <span class="evidence-value">ResearchReport</span><br>
+   <span class="evidence-label">Confidence:</span> <span class="evidence-value confidence">90%</span><br>
+   <span class="evidence-label">Supporting Text:</span>
+   <div class="text-box">
+   **Institution:** University of Technology
+   **Journal:** Human-Computer Interaction
+   **Date:** February 2024
+   
+   ## Abstract
+   
+   This paper examines how users manage multiple digital identities across various platforms and applications.
+   </div>
+</div>
+
+<div class="evidence-header"><span class="emoji">🔍</span> EVIDENCE FOUND #4</div>
+<div class="evidence-details">
+   <span class="evidence-label">Source Type:</span> <span class="evidence-value">DOCUMENT</span><br>
+   <span class="evidence-label">Source:</span> <span class="evidence-value">GenericDocument</span><br>
+   <span class="evidence-label">Confidence:</span> <span class="evidence-value confidence">90%</span><br>
+   <span class="evidence-label">Supporting Text:</span>
+   <div class="text-box">
+   # Product Requirements Document: Multi-Account Dashboard
+   
+   **Product Manager:** Alex Chen
+   **Date:** January 2024
+   
+   ## Overview
+   
+   This document outlines requirements for a unified dashboard that helps users manage multiple digital accounts.
+   
+   ### User Persona: Sarah, Working Professional
+   - Maintains separate work and personal email accounts
+   - Uses online banking for multiple accounts
+   - Active on multiple social media platforms (LinkedIn, Twitter/X)
+   - Regular Amazon and eBay shopper
+   - Uses healthcare portals like MyChart
+   
+   ## Functional Requirements
+   
+   - FR-001: System shall support linking multiple email accounts
+   - FR-002: System shall integrate with major banking APIs
+   - FR-003: System shall connect with social media APIs (Instagram, Facebook, X)
+   - FR-004: System shall sync with e-commerce platforms (Amazon, eBay)
+   - FR-005: System shall interface with healthcare portals
+   </div>
+</div>
+
+<div class="summary"><span class="emoji">📊</span> SUMMARY</div>
+<div class="phase-separator">═════════</div>
+<div class="validation-result"><span class="emoji">✅</span> Insight VALIDATED across 4 different source types</div>
+<div class="confidence"><span class="emoji">🎯</span> Confidence: HIGH (AI + Multiple Sources)</div>
+<div class="traceability"><span class="emoji">🔗</span> Full traceability maintained</div>
+
+<div class="report-section">=== Research Reports Only ===</div>
+<div class="report-section">Report: UX Research Report: Digital Banking User Behavior Study</div>
+<div class="report-section">Author: Dr. Sarah Chen</div>
+<div class="report-section">Date: March 2024</div>
+
+<div class="report-section">Report: Academic Paper: Digital Identity Management in Modern Applications</div>
+<div class="report-section">Author: Prof. Maria Gonzalez, Dr. James Park</div>
+<div class="report-section">Date: Unknown</div>
+
+<div class="source-item">Multi-source analysis saved to testData/multi_source_analysis.txt</div>
+    </div>
+</body>
+</html>
