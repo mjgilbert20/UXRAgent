@@ -1,0 +1,14 @@
+=== UXR Agent Multi-Source Analysis ===
+Project: Digital Banking User Behavior Study 2024
+Project ID: banking_study_2024
+Insight: users maintain multiple email accounts for different purposes
+Total Sources: 3
+Source Distribution:
+  TEXT_TRANSCRIPT: 1
+  DOCUMENT: 1
+  RESEARCH_REPORT: 1
+
+Matches Found:
+  MatchResult{match=true, confidence=0.90, sourceType=TEXT_TRANSCRIPT, sourceName='interview_participant_001.txt', matches=1}
+  MatchResult{match=true, confidence=0.90, sourceType=RESEARCH_REPORT, sourceName='ResearchReport', matches=1}
+  MatchResult{match=true, confidence=0.90, sourceType=DOCUMENT, sourceName='GenericDocument', matches=1}

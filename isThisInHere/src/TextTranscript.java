@@ -19,7 +19,7 @@ public class TextTranscript extends InterviewSource {
 
     @Override
     public SourceType getType() {
-        return SourceType.TEXT;
+        return SourceType.TEXT_TRANSCRIPT;
     }
 
     public String getFilePath() {

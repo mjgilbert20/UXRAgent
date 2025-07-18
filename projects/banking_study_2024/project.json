@@ -1,0 +1,17 @@
+{
+  "projectId": "banking_study_2024",
+  "name": "Digital Banking User Behavior Study 2024",
+  "description": "A comprehensive study examining user behavior patterns in digital banking applications, focusing on account management and security preferences.",
+  "dataDirectory": "sources",
+  "resultsDirectory": "results",
+  "createdDate": "Fri Jul 18 2025 10:30:00 GMT-0500",
+  "lastModified": "Fri Jul 18 2025 10:30:00 GMT-0500",
+  "metadata": {
+    "researcher": "Dr. Sarah Chen",
+    "institution": "Digital UX Research Lab",
+    "startDate": "January 2024",
+    "endDate": "March 2024",
+    "participantCount": "150",
+    "methodology": "Mixed-methods study with interviews, surveys, and behavioral analytics"
+  }
+}

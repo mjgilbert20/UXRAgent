@@ -1,0 +1,17 @@
+{
+  "projectId": "mobile_app_research",
+  "name": "Mobile App User Experience Research",
+  "description": "Research project focused on mobile application usability patterns and user preference analysis across different demographics.",
+  "dataDirectory": "sources",
+  "resultsDirectory": "results",
+  "createdDate": "Fri Jul 18 2025 11:00:00 GMT-0500",
+  "lastModified": "Fri Jul 18 2025 11:00:00 GMT-0500",
+  "metadata": {
+    "researcher": "Prof. Maria Gonzalez",
+    "institution": "University of Technology",
+    "startDate": "February 2024",
+    "endDate": "Ongoing",
+    "participantCount": "75",
+    "methodology": "User interviews, usability testing, and app analytics"
+  }
+}

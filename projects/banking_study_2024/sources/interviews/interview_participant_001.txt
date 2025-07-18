@@ -1,0 +1,55 @@
+I: Thanks for joining me today. We're talking about protecting your digital identity — what that means to you, how you think about it, and what you do in practice. There are no right or wrong answers, just your experience. Sound good?
+
+R: Yeah, sounds good. Happy to help.
+
+I: First, can you tell me what types of digital accounts you currently have? For example, things like email, banking, social media, and so on?
+
+R: Uh, yeah, quite a few actually. Two emails — one for work and one personal. Online banking, obviously. Social media — Instagram, Facebook, Twitter… well, I guess it’s X now. I also have a few shopping accounts like Amazon and eBay. Oh, and I use MyChart for health stuff.
+
+I: Thanks. Do you tend to use different passwords for those accounts?
+
+R: I try to. I used to just rotate through three or four, but I started using a password manager about a year ago. So now most of them are different. At least the important ones.
+
+I: That leads well into the next question: how often do you update your passwords or use two-factor authentication?
+
+R: Hmm. I don’t update passwords regularly unless I’m forced to. But I do have 2FA on most accounts that support it. Usually it's a text message. I know they say that’s not the most secure, but I haven’t set up one of those authenticator apps yet. I’ve been meaning to.
+
+I: Have you ever been notified of a data breach affecting one of your accounts?
+
+R: Yes, actually — my old Yahoo account. That was years ago, but I still remember getting an email about it. I deleted the account eventually, but at the time I just changed the password and hoped for the best. I think another one was LinkedIn. That one made me more paranoid.
+
+I: Do you use a password manager?
+
+R: Yeah, like I mentioned, I started using 1Password. I was hesitant at first — putting all your passwords in one place feels risky — but now I feel kind of lost without it.
+
+I: Can you describe the last time you reviewed or changed privacy settings on a device, app, or service?
+
+R: Uh… I guess when I updated my phone to a new iOS version. It asked about tracking permissions for apps. I remember turning off location sharing for Facebook. But I don’t do that stuff regularly. I usually just accept the default settings unless something seems sketchy.
+
+I: Let’s shift into a few broader questions. What does “protecting your digital identity” mean to you personally?
+
+R: That’s a big one. I guess it means not letting your data — your habits, your location, your photos, whatever — be used in ways you don’t expect. Like, I don’t mind targeted ads that much, but I do care about someone impersonating me or hacking into my bank account. So, to me it’s more about protecting my actual identity — not just preferences.
+
+I: How confident do you feel about the security of your personal information online?
+
+R: Medium? [laughs] I mean, I do some things right — like strong passwords, 2FA — but I also know that most systems can be hacked if someone really wants to. So I feel… cautiously secure, I guess. I do what I can, but I know it’s not airtight.
+
+I: Do you think most people understand the risks involved in sharing personal information online?
+
+R: Not really. I think people know the buzzwords — phishing, data breach, identity theft — but they don’t really change their behavior until something bad happens. Like, I didn’t take any of this seriously until I got that LinkedIn breach notification. Before that, it was just… background noise.
+
+I: In your opinion, what’s more important: convenience or privacy?
+
+R: [long pause] That's tough. I’d like to say privacy, but I think most of us pick convenience day to day. I use Google everything, even though I know they track me. It’s just… too easy. And I’m not even mad about it. But if you asked me what should be more important? Then, yeah — privacy.
+
+I: If you could change one thing about how digital identity is managed online today, what would it be?
+
+R: Honestly? I wish companies were just more upfront. Like, don’t bury stuff in the Terms of Service — just show me a dashboard of who has what data on me. And let me actually delete it, not just “deactivate.” I’d also like some way to have one verified identity across platforms without it being owned by a tech giant. Probably wishful thinking, huh?
+
+I: Not at all. Last question — has this conversation brought up any other thoughts for you?
+
+R: Hmm. Maybe just how little time I spend thinking about this. I mean, I care, but I don’t really act on it until something happens. It’s like going to the dentist — you know you should, but it’s easy to put off. Oh, also — I think a lot of older folks really struggle with this stuff. My dad forwards me sketchy emails all the time asking if they’re “real.” So I guess awareness and education are still a big gap.
+
+I: That’s really helpful. Thanks again for your time — you’ve given me a lot to think about.
+
+R: Happy to help. Good luck with the project!

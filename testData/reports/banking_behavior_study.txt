@@ -1,0 +1,49 @@
+# UX Research Report: Digital Banking User Behavior Study
+
+**Author:** Dr. Sarah Chen  
+**Date:** March 2024  
+**Methodology:** Mixed-methods study with 150 participants  
+
+## Executive Summary
+
+This study examined user behavior patterns in digital banking applications, focusing on account management preferences and security concerns.
+
+## Key Findings
+
+### Account Management Preferences
+Our research revealed that 78% of users maintain multiple email accounts for different purposes. Specifically:
+- 85% use separate work and personal email accounts
+- 67% access online banking services weekly
+- 72% are active on social media platforms including Instagram, Facebook, and Twitter (now X)
+
+### Shopping Behavior
+E-commerce usage patterns show:
+- 89% have Amazon accounts
+- 54% regularly use eBay for purchases
+- Average user maintains 3-4 shopping platform accounts
+
+### Healthcare Technology Adoption
+Digital health services are gaining traction:
+- 43% use patient portal systems like MyChart
+- Users appreciate centralized health information access
+- Security remains a primary concern for health data
+
+## Methodology Details
+
+Participants were recruited through random sampling across three metropolitan areas. Data collection involved:
+1. Semi-structured interviews (60 minutes each)
+2. User journey mapping sessions
+3. Security preference questionnaires
+
+## Recommendations
+
+1. Design for multi-account ecosystems
+2. Prioritize cross-platform integration
+3. Implement robust security measures for sensitive data
+4. Consider user mental models around account organization
+
+## Limitations
+
+- Sample limited to urban populations
+- Technology adoption may vary by demographic
+- Study conducted pre-2024 security updates
