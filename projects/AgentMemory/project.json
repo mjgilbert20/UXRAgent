@@ -1,0 +1,17 @@
+{
+  "projectId": "AgentMemory",
+  "name": "Agent Memory Research Project",
+  "description": "Research project examining agent memory systems, persistence, and recall mechanisms across different AI architectures.",
+  "dataDirectory": "sources",
+  "resultsDirectory": "results",
+  "createdDate": "Fri Jul 18 2025 10:45:00 GMT-0500",
+  "lastModified": "Fri Jul 18 2025 10:45:00 GMT-0500",
+  "metadata": {
+    "researcher": "TBD",
+    "institution": "TBD",
+    "startDate": "July 2025",
+    "endDate": "TBD",
+    "participantCount": "TBD",
+    "methodology": "Multi-source document analysis"
+  }
+}

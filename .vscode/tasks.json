@@ -1,0 +1,81 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "compile",
+			"type": "shell",
+			"command": "javac",
+			"args": [
+				"-cp",
+				"isThisInHere\\lib\\json-20240303.jar",
+				"-d",
+				"isThisInHere\\out",
+				"isThisInHere\\src\\*.java"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"presentation": {
+				"echo": true,
+				"reveal": "silent",
+				"focus": false,
+				"panel": "shared",
+				"showReuseMessage": true,
+				"clear": false
+			},
+			"problemMatcher": ["$tsc"],
+			"detail": "Compile all Java source files with org.json dependency"
+		},
+		{
+			"label": "run",
+			"type": "shell",
+			"command": "java",
+			"args": [
+				"-cp",
+				"isThisInHere\\lib\\json-20240303.jar;isThisInHere\\out",
+				"Main"
+			],
+			"group": "test",
+			"dependsOn": "compile",
+			"presentation": {
+				"echo": true,
+				"reveal": "always",
+				"focus": false,
+				"panel": "shared",
+				"showReuseMessage": true,
+				"clear": true
+			},
+			"problemMatcher": [],
+			"detail": "Run the Main class with all dependencies"
+		},
+		{
+			"label": "clean",
+			"type": "shell",
+			"command": "cmd",
+			"args": [
+				"/c",
+				"if exist isThisInHere\\out rmdir /s /q isThisInHere\\out && mkdir isThisInHere\\out"
+			],
+			"group": "build",
+			"presentation": {
+				"echo": true,
+				"reveal": "silent",
+				"focus": false,
+				"panel": "shared"
+			},
+			"detail": "Clean the output directory"
+		},
+		{
+			"label": "build and run",
+			"dependsOrder": "sequence",
+			"dependsOn": [
+				"clean",
+				"compile",
+				"run"
+			],
+			"group": "build",
+			"detail": "Clean, compile, and run the project in sequence"
+		}
+	]
+}
